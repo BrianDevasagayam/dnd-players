@@ -1,0 +1,15 @@
+Choose from the following backgrounds. You don't need to tie too much of your character into one of these backgrounds if it doesn't fit. Maybe you have the soldier background because your mother fought in a war long ago and passed those skills onto you. Choose whatever feels right and gain those background's benefits
+
+* **[Acolyte](https://dnd5e.wikidot.com/background:acolyte)** (PHB, pg. 127)
+* **[Charlatan](https://dnd5e.wikidot.com/background:charlatan)** (PHB, pg. 128)
+* **[Criminal](https://dnd5e.wikidot.com/background:criminal)** / **[Spy](https://www.google.com/search?q=https://dnd5e.wikidot.com/background:spy)** (PHB, pg. 129)
+* **[Entertainer](https://dnd5e.wikidot.com/background:entertainer)** / **[Gladiator](https://www.google.com/search?q=https://dnd5e.wikidot.com/background:gladiator)** (PHB, pg. 130)
+* **[Folk Hero](https://dnd5e.wikidot.com/background:folk-hero)** (PHB, pg. 131)
+* **[Guild Artisan](https://dnd5e.wikidot.com/background:guild-artisan)** / **[Guild Merchant](https://www.google.com/search?q=https://dnd5e.wikidot.com/background:guild-merchant)** (PHB, pg. 132)
+* **[Hermit](https://dnd5e.wikidot.com/background:hermit)** (PHB, pg. 134)
+* **[Noble](https://dnd5e.wikidot.com/background:noble)** / **[Knight](https://www.google.com/search?q=https://dnd5e.wikidot.com/background:knight)** (PHB, pg. 135)
+* **[Outlander](https://dnd5e.wikidot.com/background:outlander)** (PHB, pg. 136)
+* **[Sage](https://dnd5e.wikidot.com/background:sage)** (PHB, pg. 137)
+* **[Sailor](https://dnd5e.wikidot.com/background:sailor)** / **[Pirate](https://www.google.com/search?q=https://dnd5e.wikidot.com/background:pirate)** (PHB, pg. 139)
+* **[Soldier](https://dnd5e.wikidot.com/background:soldier)** (PHB, pg. 140)
+* **[Urchin](https://dnd5e.wikidot.com/background:urchin)** (PHB, pg. 141)
