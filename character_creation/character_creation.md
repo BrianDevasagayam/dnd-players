@@ -3,10 +3,11 @@ Welcome! This D&D adventure takes place on the continent of Diagros, a homebrew 
  
 This article will go through the process of creating a character for this campaign. It is not a holistic guide. Depending on your choices you may need to speak with me or consult the approved books.
 
-### Quick Guide for Experienced Players
-
- 
-The approved book list for this campaign is as follows: Player's Handbook (PHB) Mordekainen Presents: Monsters of the Multiverse (MotM) Tasha's Cauldron of Everything (TCoE) Xanathar's Guide to Everything (XGtE)
+The approved book list for this campaign is as follows:
+- Player's Handbook (PHB)
+- Mordekainen Presents: Monsters of the Multiverse (MotM)
+- Tasha's Cauldron of Everything (TCoE)
+- Xanathar's Guide to Everything (XGtE)
  
 NOTE: When viewing content from free sources online, make sure to check the source of the content. Particularly, for any race features, make sure the content is not from Volo's Guide to Monsters. This is legacy content that has been updated in MotM. Please use MotM for the updated racial abilities.
 
