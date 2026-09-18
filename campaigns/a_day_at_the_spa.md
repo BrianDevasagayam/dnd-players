@@ -22,7 +22,7 @@ Later on in the character creation section, you will be given an opportunity to 
 
 ## Campaign Beginnings
 
-You have been tasked by Lord Bergius with finding a mirrored book written by Sylvarie Silversong. 
+You have been tasked by Lord Bergius with finding a mirrored book written by Sylvarie Silversong. You arrive at the Dahl Athenaeum and are greeted by Lorris Niss.
 
 ## Character Creation
 

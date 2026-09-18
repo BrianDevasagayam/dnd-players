@@ -19,9 +19,8 @@ For this campaign we are using D&D 5th edition (5e). There is also One D&D or D&
 
 D&D is a team game. Even if you design your characters with conflicting motivations it is up to you the player to reconcile this and give your character a reason to work with others.
 
-For this campaign, your party will be level 5 (with no level ups during) and already have been together for some time. As a group you must decide on a name that the locals call you and what great adventure you had to give you that name and your infamy. In addition, each players must have some connection to 3 other players prior to joining as a party to explain why you all joined up together in the first place.
  
-When creating a character follow these steps: Stats Race Class Backgrounds Player Choices?
+When creating a character follow these steps:
 
 ## Personality, Race, Class, Background
 
@@ -30,7 +29,7 @@ The crux of any character is their race, class, background and personality. Pers
 
 If you're struggling to make a character's personality I find it useful to make a caricature of your character. This gives you a simple and easy starting point on the roleplay side and allows you to fill out the rest to make them more complex.
 
-Example: A angry half-orc barbarian who thinks with muscles over their brain and speaks in short, grammatically incorrect sentences. Simple to roleplay and everyone at the table will understand your character. Then you can build upon this by answering why they are angry? why do they rage? Perhaps their father wanted them to be better in battle and was always disappointed fueling that rage. Maybe they wanted to be a scholar but they weren't allowed to go to proper Common (English) schools. Maybe they learned Common by spying on humans without formal learning and someone to practice with. This half-orc could actually be very well spoken in orcish but none of their human friends know it. The caricature does not have to define your character, but it is a great start especially when it comes to roleplaying.
+    Example: A angry half-orc barbarian who thinks with muscles over their brain and speaks in short, grammatically incorrect sentences. Simple to roleplay and everyone at the table will understand your character. Then you can build upon this by answering why they are angry? why do they rage? Perhaps their father wanted them to be better in battle and was always disappointed fueling that rage. Maybe they wanted to be a scholar but they weren't allowed to go to proper Common (English) schools. Maybe they learned Common by spying on humans without formal learning and someone to practice with. This half-orc could actually be very well spoken in orcish but none of their human friends know it. The caricature does not have to define your character, but it is a great start especially when it comes to roleplaying.
 
 Along with personality, race and class are the most important parts of your character. Before continuing on making your character you will need to select these two options as they influence everything that follows. When choosing your class there will be a main stat for that class and your race affects bonuses to certain stats. 
 
